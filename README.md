@@ -1,4 +1,4 @@
-#Afriza Choirie Saputra - 241524002
+Afriza Choirie Saputra - 241524002
 
 Referensi :
 https://www.programiz.com/dsa/doubly-linked-list
